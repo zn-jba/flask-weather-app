@@ -12,7 +12,7 @@ My solution for the [**Weather App**][project] project on the learning platform 
 
 A web application that retrieves the current weather from any city all over the world. It stores the city, weather
 temperature and state at the time of the retrieval on a local SQLite database. It's powered by the Flask web framework
-with the Flask-SQLAlchemy package and the OpenWeather API.
+with the Flask-SQLAlchemy package and the OpenWeather API online service.
 
 ## Setup
 
